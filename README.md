@@ -3,7 +3,7 @@ This is the baseline tool for hard fork analysis in GitHub.
 It provides a detailed breakdown of each commit, the belongingship (upstream or fork) of each commit, and a time-window-slicing summary of common contrubutors' activities in different repos.
 
 ## Authors 
-Jiachen Meng (jiachen.meng@mail.utoronto.ca)\
+Jiachen Meng (jiachen"dot"meng"at"mail.utoronto.ca)\
 Under supervision of Prof. Shurui Zhou
 
 ## What you need to run the code
